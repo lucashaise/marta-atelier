@@ -79,6 +79,7 @@
   margin-left: 42%;
   margin-right: 42%;
   position: absolute;
+  z-index: -1;
   width: 15VW;
   height: auto;
   top: -2VH;
